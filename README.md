@@ -6,3 +6,7 @@ If you want to try this on your local computer, please execute this command on y
 
 ```pip3 install -r requirements.txt```
 
+References:
+1. Bishop, C. M. (2006). Pattern Recognition and Machine Learning. New York, Springer.
+2. Hastie, T., Tibshirani, R., and Friedman, J. (2008). Elements of Statistical Learning. California, Springer.
+
