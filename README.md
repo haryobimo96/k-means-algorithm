@@ -1,5 +1,5 @@
 # k-means-algorithm
-Computational approach to k-means algorithm. This repository puts more emphasis on the math behind k-means algorithm and less on the application of k-means clustering for different use cases. To run this notebook, simply execute the .ipynb file in Jupyter/Google Colab.
+Computational approach to k-means algorithm. This repository puts more emphasis on the math behind k-means algorithm and less on the application of k-means clustering for different use cases. To run this notebook, simply execute the .ipynb file in Jupyter/Google Colab (Open the Google Colab link for the best experience)
 
 Requirements:
 
